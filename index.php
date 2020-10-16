@@ -3,7 +3,7 @@
 include("connection.php");
 include("header.html");
 ?>
-    <h1>Belajar Cara Insert</h1>
+    <h1>Belajar Insert</h1>
     <form action ="Controller/insertController.php" method = "post">
     <div class="form-group">
     <label for="Nama">Name</label>
